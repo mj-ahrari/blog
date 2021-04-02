@@ -1,3 +1,10 @@
 body{
     direction: rtl;
 }
+.card{
+    width: 21rem !important;
+    height: 30rem !important;
+}
+.card img{
+    height: 14rem !important;
+}
