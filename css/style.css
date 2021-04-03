@@ -8,9 +8,7 @@ body{
 .mycard img{
     height: 14rem !important;
 }
-#btn-search{
-    /* height: fit-content !important; */
-}
-#search-box{
+.search-box{
     height: auto !important;
+    width: auto !important;
 }
