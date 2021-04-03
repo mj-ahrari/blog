@@ -5,6 +5,12 @@ body{
     width: 21rem !important;
     height: 33rem !important;
 }
-.card img{
+.mycard img{
     height: 14rem !important;
+}
+#btn-search{
+    /* height: fit-content !important; */
+}
+#search-box{
+    height: auto !important;
 }
