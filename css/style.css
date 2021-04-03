@@ -12,3 +12,13 @@ body{
     height: auto !important;
     width: auto !important;
 }
+.slider-image img{
+    width: 100%;
+    /* height: 500px; */
+    height:500px;
+}
+@media (max-width: 600px) {
+    .slider-image img{
+        height:270px ;
+    }
+}
